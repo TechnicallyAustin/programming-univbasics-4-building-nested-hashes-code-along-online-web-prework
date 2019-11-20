@@ -20,5 +20,11 @@ def fourth_challenge
     ]
   }
   }
+<<<<<<< HEAD
   
 end
+=======
+  epic_tragedy[:montague][:hero][:status] = "dead"
+  epic_tragedy[:capulet][:heroine][:status] = "dead"
+end
+>>>>>>> 89f6de932db380ac2fd7b7db01b15cde0acd9c00
